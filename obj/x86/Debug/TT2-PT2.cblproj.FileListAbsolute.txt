@@ -1,0 +1,5 @@
+D:\Semester 4\MAFD4202\Term test 2\TT2-PT2\bin\x86\Debug\TT2_PT2.exe
+D:\Semester 4\MAFD4202\Term test 2\TT2-PT2\bin\x86\Debug\Program1.idy
+D:\Semester 4\MAFD4202\Term test 2\TT2-PT2\obj\x86\Debug\TT2_PT2.exe
+D:\Semester 4\MAFD4202\Term test 2\TT2-PT2\obj\x86\Debug\Program1.idy
+D:\Semester 4\MAFD4202\Term test 2\TT2-PT2\obj\x86\Debug\Program1.obj

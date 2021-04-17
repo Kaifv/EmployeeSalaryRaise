@@ -1,0 +1,2 @@
+^D:\SEMESTER 4\MAFD4202\TERM TEST 2\TT2-PT2\OBJ\X86\DEBUG\PROGRAM1.OBJ
+MFCBT_Options=-Oobj\x86\Debug\TT2_PT2.exe -N -FM obj\x86\Debug\Program1.obj . MFCBT_Objs=
